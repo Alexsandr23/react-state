@@ -1,0 +1,10 @@
+.myBtn {
+    color: blueviolet;
+    font-size: 14px;
+    background-color: transparent;
+    border: 1px solid blueviolet;
+    cursor: pointer;
+}
+.btnOne{
+    position: absolute;
+}
